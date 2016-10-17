@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
+I'm Riley. I'm a sound designer and developer based in Sydney, Australia.
+
+This website is just a place for me to document various projects I'm working on.
+
 I'm currently a sysadmin at [Dalegroup](http://dalegroup.net).
 
-### Qualifications
-
-I'm finishing a Bachelor of Communications in Sound and Music Design at the University of Technology Sydney (UTS).
-
-### Contact me
-
-[Email](mailto:rileymccullagh@gmail.com)
