@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm currently a Systems Administrator at [Dalegroup](http://dalegroup.net).
 
-### More Information
+### Qualifications
 
-A place to include any other types of information that you'd like to include about yourself.
+I'm finishing a Bachelor of Communications in Sound and Music Design at the University of Technology Sydney (UTS).
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[Email](mailto:rileymccullagh@gmail.com)
