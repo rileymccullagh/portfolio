@@ -57,6 +57,9 @@ h1 {
 
 h2 {
   font-size: 24px;
+  a {
+    color: inherit;
+  }
 }
 
 h3 {
@@ -284,11 +287,6 @@ nav {
 
   .comments {
     margin-top: 10px;
-  }
-
-  .read-more {
-    //text-transform: uppercase;
-    //font-size: 15px;
   }
 }
 
