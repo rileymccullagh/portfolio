@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+![Riley McCullagh]({{ site.baseurl }}/images/hairspray.jpg)
+
 I'm Riley. I'm a sound designer and developer based in Sydney, Australia.
 
 This website is just a place for me to document various projects I'm working on.
