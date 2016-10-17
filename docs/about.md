@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm currently a Systems Administrator at [Dalegroup](http://dalegroup.net).
+I'm currently a sysadmin at [Dalegroup](http://dalegroup.net).
 
 ### Qualifications
 
