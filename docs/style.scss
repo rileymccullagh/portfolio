@@ -18,7 +18,10 @@ html {
 }
 
 body {
-	background: $white;
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  background: $white;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
@@ -254,6 +257,10 @@ nav {
 //
 // .main
 //
+
+#main {
+  flex: 1;
+}
 
 .posts > .post {
   padding-bottom: 2em;
