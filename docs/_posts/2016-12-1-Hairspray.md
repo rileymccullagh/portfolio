@@ -1,6 +1,6 @@
 ---
 layout: post
-Title: Hairspray: The Musical
+Title: Hairspray The Musical
 ---
 
 In 2016 I co-Musical Directed [UTS Backstage](https://www.facebook.com/UTSBackstage/)'s production of the Broadway musical Hairspray with Jessica Blunt.
