@@ -9,4 +9,4 @@ It's called [Cheap Shiraz](https://www.facebook.com/cheapshiraz/), and it chroni
 
 Its currently preparing to do the film festival runs here in Sydney, but I'll post it here once it's on the internet.
 
-[Cheap Shiraz Poster](/images/cheapshiraz.jpg)
+![Cheap Shiraz Poster](/images/cheapshiraz.jpg)
