@@ -13,10 +13,10 @@ The cast, crew, and band were some of the most gracious people I've ever met, an
 
 ## The humans who made it happen:
 
-Directed by Jake Bayssari 
+### Crew
+Director: Jake Bayssari 
 
-Produced by Polina Pashkov
-
+Producer: Polina Pashkov
 
 Co Musical Director: Riley McCullagh
 
@@ -37,6 +37,9 @@ Lighting Designer: Nick Madunic
 Stage Manager: Kevin Millingham
 
 
+
+### Cast
+
 Tracy Turnblad: Abigail Dixon
 
 Link Larkin: Jonathan Lagudi
@@ -50,7 +53,6 @@ Amber Von Tussle: Rielly Jane Dickson
 Velma Von Tussle: Aimee Timmins
 
 Edna Turnblad: Rob Hartley
-
 
 Corny Collins: Thomas Crotty
 
@@ -76,6 +78,9 @@ General Ensemble: Lucy Chen, Sophie Hawkshaw, Sophie Matthews, Madeleine Shelest
 
 Featured Dancers: Alison Abdullah, Siobhan McCullagh, Cheryl Pieres
 
+
+
+### Band
 
 Neta Arad - Woodwind and Orchestral Supervisor
 
