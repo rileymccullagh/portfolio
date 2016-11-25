@@ -9,9 +9,9 @@ It opened on 11 August, and ran for 3 consecutive nights at Lend Lease Darling Q
 
 ![My Band](/images/hairsprayband.jpg)
 
-My band were some of the most gracious people I've ever met, and I'm very humbled and honored to have had the privelidge to work with them.
+The cast, crew, and band were some of the most gracious people I've ever met, and I'm very humbled and honored to have had the privilege to work with them.
 
-The humans who made it happen:
+## The humans who made it happen:
 
 Directed by Jake Bayssari 
 Produced by Polina Pashkov
@@ -47,7 +47,7 @@ Motormouth Ensemble: Swahnnya De Almeida, Grace Bonds, Sarah Kalule, Joshua Karr
 General Ensemble: Lucy Chen, Sophie Hawkshaw, Sophie Matthews, Madeleine Shelest, Jessie Quinn, Shae Watkins
 Featured Dancers: Alison Abdullah, Siobhan McCullagh, Cheryl Pieres
 
-The Band:
+##The Band:
 Neta Arad - Woodwind and Orchestral Supervisor
 Austin Hall - Drums
 Oliver Cameron - Piano
