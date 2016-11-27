@@ -15,6 +15,8 @@ permalink: /works/
 ### Engineering
 Before the King - Untitled (2016)
 
+[Egoism - Better](/Egoism-Better) (2015)
+
 ### Theatre
 
 [Hairspray: The Musical](http://rileymccullagh.com/Hairspray/) (2016) - UTS Backstage
