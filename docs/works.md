@@ -8,9 +8,9 @@ permalink: /works/
 
 [Cheap Shiraz](http://rileymccullagh.com/Cheap-Shiraz/) (2016)
 
-[Sage & Riley - Vol. 1: Contrast](http://rileymccullagh.com/Sage-Riley/) (2014)
-
 [Sage & Riley - Vol. 2: Beezwax](http://rileymccullagh.com/Sage-Riley/) (2015)
+
+[Sage & Riley - Vol. 1: Contrast](http://rileymccullagh.com/Sage-Riley/) (2014)
 
 ### Engineering
 Before the King - Untitled (2016)
