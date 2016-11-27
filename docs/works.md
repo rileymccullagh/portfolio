@@ -4,16 +4,19 @@ title: Works
 permalink: /works/
 ---
 
-# Composition
+### Composition
 
-## Films
-Cheap Shiraz (2016)
+[Cheap Shiraz](http://rileymccullagh.com/Cheap-Shiraz/) (2016)
 
-# Production
+[Sage & Riley - Vol. 1: Contrast](http://rileymccullagh.com/Sage-Riley/) (2014)
 
-## Engineering
+[Sage & Riley - Vol. 2: Beezwax](http://rileymccullagh.com/Sage-Riley/) (2015)
+
+### Engineering
 Before the King - Untitled (2016)
 
-## Producing
-Sage & Riley - Vol. 1: Contrast (2014)
-Sage & Riley - Vol. 2: Beezwax (2015)
+### Theatre
+
+[Hairspray: The Musical](http://rileymccullagh.com/Hairspray/) (2016) - UTS Backstage
+
+[The Dog/The Cat](http://rileymccullagh.com/Cat-Dog/) (2015) - Belvoir St Theatre
