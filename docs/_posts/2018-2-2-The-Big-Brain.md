@@ -5,7 +5,7 @@ title: The Big Brain
 
 In 2017 I composed the soundtrack to a video game developed by undergraduates of the Game Design degree at UTS. The game is a zombie apocalypse Real Time Strategy game called [The Big Brain](http://www.gamesstudio.org/games/big-brain) where the player controls a horde of zombies.
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/F_WDLDUQiMQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="100%" src="https://www.youtube.com/embed/F_WDLDUQiMQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 The score is available [here](/images/TheBigBrain.pdf), and excerpts are below.
 
