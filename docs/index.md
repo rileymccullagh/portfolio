@@ -3,6 +3,8 @@ layout: page
 permalink: index.html
 ---
 
+Riley McCullagh is an Australian composer and sound designer working in theatre, film, and games.
+
 #### Works
 
 | Year | Medium  | Title                                                          | Role                                | Company            | Director        |
