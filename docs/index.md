@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Works
-permalink: /works/
+permalink: index.html
 ---
 
 #### Works
