@@ -22,7 +22,7 @@ body {
   min-height: 100vh;
   flex-direction: column;
   background: $white;
-  font: 18px/1.4 $helvetica;
+  font: 15px/1.4 $helvetica;
   color: $darkGray;
 }
 
@@ -49,14 +49,14 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 30px;
+  font-size: 25px;
   a {
     color: inherit;
   }
 }
 
 h2 {
-  font-size: 24px;
+  font-size: 22px;
   a {
     color: inherit;
   }
@@ -72,14 +72,13 @@ h4 {
 }
 
 h5 {
-  font-size: 24px;
+  font-size: 15px;
   a {
-    color: inherit;
+    color: $gray;
   }
-  text-align:center
 }
 p {
-  margin: 18px 0;
+  margin: 15px 0;
 }
 
 a {
