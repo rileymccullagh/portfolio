@@ -17,13 +17,25 @@ Marlowe Fitzpatrick played the piano in the recording.
 Your browser does not support the audio element.
 </audio>
 ## Episode 2: The Investigation
-<iframe width="100%" height="150" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/263035333&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<audio controls>
+  <source src="http://16633.mc.tritondigital.com/WHOOSHKAA_1117/media-session/df0cc021-2281-4e53-9a3b-0302480cf9ab/podcasts/podcast_1117/podcast_media/8eee65-263035333-the-australian-1-episode-2-the-investigation.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
 
 ## Episode 3: The Suspect
-<iframe width="100%" height="150" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/263528597&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<audio controls>
+  <source src="http://16673.mc.tritondigital.com/WHOOSHKAA_1117/media-session/4721c581-5289-4bc3-8d39-3fada9177048/podcasts/podcast_1117/podcast_media/fc41b0-263528597-the-australian-1-bowraville-episode-3-the-suspect.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
 
 ## Episode 4: The Trials
-<iframe width="100%" height="150" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/264198186&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<audio controls>
+  <source src="http://16673.mc.tritondigital.com/WHOOSHKAA_1117/media-session/b738202b-2a96-45e7-b231-bf4aa9aae3ea/podcasts/podcast_1117/podcast_media/b9b639-264198186-the-australian-1-bowraville-episode-4-the-trials.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
 
 ## Episode 5: The Case for Jay
-<iframe width="100%" height="150" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/264712865&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<audio controls>
+  <source src="http://20313.mc.tritondigital.com/WHOOSHKAA_1117/media-session/c33b4fdc-c915-422a-a14b-2f8fdb12788c/podcasts/podcast_1117/podcast_media/f4fc5b-264712865-the-australian-1-bowraville-episode-5-the-case-for-jay.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
