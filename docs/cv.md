@@ -20,12 +20,13 @@ University of Technology Sydney (UTS)
 
 ### Experience
 <div class="greybox">
-<h5 style="margin: 0px">Freelance Composer and Sound Designer</h5>
+<h4 style="margin: 0px">Freelance Composer and Sound Designer</h4>
 
 2014 - Present
 <ul>
-<li>this </li>
-<li> that </li>
+<li> Writing soundtracks for a range of mediums, including theatre, film, video games, and podcasts </li>
+<li> Collaborating with directors and producers to produce work that enhances and extends an artistic vision </li>
+<li> Filling multiple roles at once in low budget operations, including composing, conducting, sound designing, mixing, recording, dialogue replacement (ADR) etc. </li>
 </ul>
 
 </div>
