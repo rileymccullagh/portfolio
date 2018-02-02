@@ -18,7 +18,7 @@ University of Technology Sydney (UTS)
 
 </div>
 <br>
-<br>
+
 ### Experience
 <div class="greybox">
 <h4 style="margin: 0px">Freelance Composer and Sound Designer</h4>
@@ -51,7 +51,8 @@ Feb 2016 - June 2017
 </div>
 
 <br>
-<br>
+
+### Other
 <div class="greybox">
 <h4 style="margin: 0px">Professional Interests</h4>
 <ul>
