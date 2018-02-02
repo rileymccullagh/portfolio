@@ -41,7 +41,7 @@ Feb 2016 - June 2017
 <li>Providing on-call technical analysis for multi-national businesses in a range of industries</li>
 <li>Performing regular solo site visits to ensure the operation of mission-critical hardware</li>
 <li>Writing software solutions for automating manual tasks</li>
-<li>Providing personalised technical support hundreds of users across Australia, New Zealand, and Indonesia</li>
+<li>Providing personalised technical support for hundreds of users across Australia, New Zealand, and Indonesia</li>
 </ul>
 
 </div>
