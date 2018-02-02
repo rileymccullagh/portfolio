@@ -11,7 +11,7 @@ Riley McCullagh is an Australian composer and sound designer working in theatre,
 
 <h3 style="margin: 0px">Education</h3>
 
-<h4>Sound and Music Design</h4>
+<h4 style="bottom-margin: 0px">Sound and Music Design</h4>
 University of Technology Sydney (UTS)
 <br>
 2014 - Present                   
