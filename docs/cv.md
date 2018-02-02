@@ -25,7 +25,7 @@ University of Technology Sydney (UTS)
 - that
 
 
-#### Technical and Support Analyst
+##### Technical and Support Analyst
 
 [Dalegroup Pty Ltd](http://dalegroup.net/)
 
