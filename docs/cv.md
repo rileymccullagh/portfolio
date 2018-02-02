@@ -14,7 +14,7 @@ Riley McCullagh is an Australian composer and sound designer working in theatre,
 
 ### Experience
 
-|  :---                                 | :---      | --------------:|
+|  :---                                 | :---      | ---:   <!-- .element: style="text-align:right;" -->        |
 | Freelance Composer and Sound Designer |           | 2014 - Present |
 
 | this |
@@ -24,7 +24,7 @@ Riley McCullagh is an Australian composer and sound designer working in theatre,
 
 
 
-|  :---                         | :------------                              | --------------------:|
+|  :---                         | :---                                       | ---:   <!-- .element: style="text-align:right;" -->              |
 | Technical and Support Analyst | [Dalegroup Pty Ltd](http://dalegroup.net/) | Feb 2016 - June 2017 |
 
 | this |
