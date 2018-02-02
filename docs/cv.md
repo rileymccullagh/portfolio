@@ -11,7 +11,7 @@ Riley McCullagh is an Australian composer and sound designer working in theatre,
 
 <h3 style="margin: 0px">Education</h3>
 
-<h4 style="margin: 0px">Sound and Music Design</h4>
+<h4>Sound and Music Design</h4>
 University of Technology Sydney (UTS)
 <br>
 2014 - Present                   
@@ -22,7 +22,7 @@ University of Technology Sydney (UTS)
 <div class="greybox">
 <h3 style="margin: 0px">Experience</h3>
 
-<h4 style="margin: 0px">Freelance Composer and Sound Designer</h4>
+<h4>Freelance Composer and Sound Designer</h4>
 
 2014 - Present
 <ul>
@@ -34,7 +34,7 @@ University of Technology Sydney (UTS)
 </div>
 
 <div class="greybox">
-<h4 style="margin: 0px">Technical and Support Analyst</h4>
+<h4>Technical and Support Analyst</h4>
 
 for <a href="http://dalegroup.net/">Dalegroup Pty Ltd</a>
 <br>
