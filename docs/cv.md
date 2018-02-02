@@ -26,10 +26,11 @@ University of Technology Sydney (UTS)
 <ul>
 <li>this </li>
 <li> that </li>
-<ul>
+</ul>
 
 </div>
 
+<br>
 
 <div class="greybox">
 <h4>Technical and Support Analyst</h4>
