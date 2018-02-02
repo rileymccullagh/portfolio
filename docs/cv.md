@@ -5,18 +5,25 @@ permalink: /cv/
 
 Riley McCullagh is an Australian composer and sound designer working in theatre, film, and games.
 
-# Education
-2014~2018: Bachelor of Sound and Music Design - University of Technology Sydney (UTS)
+## Education
 
-# Experience
+2014~2018
 
-## Freelance Composer and Sound Designer
+*Bachelor of Sound and Music Design*
+
+University of Technology Sydney (UTS)
+
+
+
+## Experience
+
+### Freelance Composer and Sound Designer
 
 2014 ~ Present
 #### Roles and responsibilities:
 
 
-## Technical and Support Analyst
+### Technical and Support Analyst
 
 [Dalegroup Pty Ltd](http://dalegroup.net/)
 
