@@ -17,7 +17,7 @@ University of Technology Sydney (UTS)
 2014 - Present                   
 
 </div>
-
+<br>
 ### Experience
 <div class="greybox">
 <h4 style="margin: 0px">Freelance Composer and Sound Designer</h4>
@@ -31,7 +31,7 @@ University of Technology Sydney (UTS)
 
 </div>
 
-<br>
+
 
 <div class="greybox">
 <h4 style="margin: 0px">Technical and Support Analyst</h4>
@@ -47,4 +47,14 @@ Feb 2016 - June 2017
 <li>Providing personalised technical support hundreds of users across Australia, New Zealand, and Indonesia</li>
 </ul>
 
+</div>
+
+
+<div class="greybox">
+<h4 style="margin: 0px">Professional Interests</h4>
+<ul>
+<li>Generative programmed soundtracks for games</li>
+<li>Musical theatre</li>
+<li>Synthesizer hardware design</li>
+</ul>
 </div>
