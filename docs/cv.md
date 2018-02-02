@@ -11,10 +11,10 @@ His portfolio is available at [rileymccullagh.com](http://rileymccullagh.com)
 
 <div class="greybox">
 
-<h4 style="margin: 0px">Bachelor of Sound and Music Design</h4>
+<h4 style="margin: 0px">Sound and Music Design</h4>
 University of Technology Sydney (UTS)
 <br>
-2014 - 2018                    
+2014 - Present                   
 
 </div>
 
