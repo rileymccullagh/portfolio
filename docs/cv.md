@@ -36,7 +36,7 @@ University of Technology Sydney (UTS)
 <h4>Technical and Support Analyst</h4>
 
 <a href="http://dalegroup.net/">Dalegroup Pty Ltd</a>
-
+<br>
 Feb 2016 - June 2017
 
 <ul>
