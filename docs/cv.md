@@ -52,7 +52,6 @@ Feb 2016 - June 2017
 
 <br>
 
-### Other
 <div class="greybox">
 <h4 style="margin: 0px">Professional Interests</h4>
 <ul>
