@@ -7,6 +7,10 @@ Riley McCullagh is an Australian composer and sound designer working in theatre,
 
 His portfolio is available at [rileymccullagh.com](http://rileymccullagh.com)
 
+email: me@rileymccullagh.com
+
+mobile: +61457 296 949
+
 ### Education
 
 <div class="greybox">
@@ -32,8 +36,6 @@ University of Technology Sydney (UTS)
 
 </div>
 
-<br>
-
 <div class="greybox">
 <h4 style="margin: 0px">Technical and Support Analyst</h4>
 
@@ -51,7 +53,7 @@ Feb 2016 - June 2017
 </div>
 
 <br>
-
+<
 <div class="greybox">
 <h4 style="margin: 0px">Professional Interests</h4>
 <ul>
