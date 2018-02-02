@@ -22,7 +22,7 @@ University of Technology Sydney (UTS)
 <div class="greybox">
 <h3 style="margin: 0px">Experience</h3>
 
-<h4>Freelance Composer and Sound Designer</h4>
+<h4 style="margin-bottom: 0px">Freelance Composer and Sound Designer</h4>
 
 2014 - Present
 <ul>
@@ -34,7 +34,7 @@ University of Technology Sydney (UTS)
 </div>
 
 <div class="greybox">
-<h4>Technical and Support Analyst</h4>
+<h4 style="margin-bottom: 0px">Technical and Support Analyst</h4>
 
 for <a href="http://dalegroup.net/">Dalegroup Pty Ltd</a>
 <br>
