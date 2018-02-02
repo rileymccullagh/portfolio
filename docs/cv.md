@@ -5,12 +5,6 @@ permalink: /cv/
 
 Riley McCullagh is an Australian composer and sound designer working in theatre, film, and games.
 
-His portfolio is available at [rileymccullagh.com](http://rileymccullagh.com)
-
-email: me@rileymccullagh.com
-
-mobile: +61457 296 949
-
 ### Education
 
 <div class="greybox">
@@ -50,15 +44,4 @@ Feb 2016 - June 2017
 <li>Providing personalised technical support hundreds of users across Australia, New Zealand, and Indonesia</li>
 </ul>
 
-</div>
-
-<br>
-<
-<div class="greybox">
-<h4 style="margin: 0px">Professional Interests</h4>
-<ul>
-<li>Generative programmed soundtracks for games</li>
-<li>Musical theatre</li>
-<li>Synthesizer hardware design</li>
-</ul>
 </div>
