@@ -11,7 +11,6 @@ Riley McCullagh is an Australian composer and sound designer working in theatre,
 | Year | Medium  | Title                                                          | Role                                | Company            | Director        |
 | ---  | ---     | ---                                                            | ---                                 | ---                | ---             |
 | 2018 | Theatre    | The Resistable Rise of Arturo Ui      | Assistant Composer                            | Sydney Theatre Company      | Kip Williams |
-
 | 2017 | Game    | [The Big Brain](http://rileymccullagh.com/The-Big-Brain/)      | Composer                            | Independent      |                 |
 | 2017 | Theatre | [The Dog/The Cat](http://rileymccullagh.com/Cat-Dog/)          | Associate Composer & Sound Designer | Belvoir            | Ralph Myers     |
 | 2016 | Theatre | [Hairspray: The Musical](http://rileymccullagh.com/Hairspray/) | Co-Musical Director                 | UTS Backstage      | Jake Bayssari   |
