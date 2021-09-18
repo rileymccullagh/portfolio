@@ -1,0 +1,74 @@
+baseURL = 'https://rileymccullagh.com/'
+languageCode = 'en-us'
+title = 'Riley McCullagh'
+theme = "hugo-initio"
+
+[markup]
+    defaultMarkdownHandler = "goldmark"
+	
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[params]
+    name = "Riley McCullagh"
+    description = "Composer & Sound Designer"
+    email = "me@rileymccullagh.com"
+    year = 2021
+    avatar = "images/headshot.jpg"
+    avatarclass = "circle"
+    background = ""
+    banner = "images/background.jpg"
+    favicon = "images/favicon.png"
+    DateForm = "January 2, 2006"
+
+    showSubheader = true
+    showServices = true
+    showRecentWorks = true
+    showDownloads = true
+    showClients = true
+
+    showFooterContact = true
+    showFooterFollowMe = true
+    showFooterTextWidget = false
+    showFooterFormWidget = false
+
+[[menu.main]]
+    name = "portfolio"
+    url = "/"
+    weight = 1
+
+
+
+[params.google.analytics]
+    trackerID = "GA-000000000-0"
+
+[[params.social]]
+	title = "instagram"
+	url = "https://www.instagram.com/ri_macc"
+    icon = "fab fa-instagram"
+    footer = true
+    sharethis = false
+    network = ""
+[[params.social]]
+	title = "soundcloud"
+	url = "https://www.soundcloud.com/rileymccullagh"
+    icon = "fab fa-soundcloud"
+    footer = true
+    sharethis = false
+    network = ""
+
+[[params.social]]
+	title = "github"
+	url = "https://github.com/rileymccullagh"
+    icon = "fab fa-github"
+    footer = true
+    sharethis = false
+    network = ""
+[[params.social]]
+	title = "email"
+	url = "mailto:me@rileymccullagh.com"
+    icon = "fas fa-envelope-square"
+    footer = false
+    sharethis = true
+    network = "email"
