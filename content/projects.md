@@ -12,7 +12,7 @@ weight = 7
 </br>
 
 {{< rawhtml >}} 
-<video width=500 loop autoplay>
+<video width=500 loop autoplay muted>
     <source src="/images/5.webm" type="video/webm">
     Your browser does not support the video tag.  
 </video>
