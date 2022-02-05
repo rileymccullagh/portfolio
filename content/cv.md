@@ -42,7 +42,7 @@ weight = 11
 | **Sarah Blasko - As Day Follows Night 10th Anniversary** </br> DIT (Period Camera Technology) </br> Dir: Alex Smith   | 2020 |
 | **Donny Benet Live Experience** </br> DIT (Period Camera Technology) </br> Dir: Alex Smith                            | 2020 |
 | **DZ Deathrays - IN-TO-IT, Still No Change, Snakes** </br> DIT (Period Camera Technology) </br> Dir: Alex Smith       | 2019 |
-| **Spod - Adult Fantasy TV Special** </br> Sound Mixer & DIT (Period Camera Technology) </br> </br> Dir: Alex Smith    | 2019 |
+| **Spod - Adult Fantasy TV Special** </br> Sound Mixer & DIT (Period Camera Technology) </br> Dir: Alex Smith    | 2019 |
 
 {{< /bootstrap-table >}}
 
