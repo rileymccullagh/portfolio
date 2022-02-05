@@ -16,7 +16,7 @@ weight = 11
 
 {{< /bootstrap-table >}}
 
-##### Film, Screen & Other Media
+##### Film & Screen Composition
 {{< bootstrap-table table_class="table table-dark table-striped table-bordered" >}}
 |            Production                                                                           |  Medium    | Year |
 | ----------------------------------------------------------------------------------------------- | ---------- | ---- |
@@ -30,6 +30,21 @@ weight = 11
 
 {{< /bootstrap-table >}}
 
+##### Sound Mixer & DIT (Period Camera Technology)
+{{< bootstrap-table table_class="table table-dark table-striped table-bordered" >}}
+|            Production                                                                                                 | Year |
+| --------------------------------------------------------------------------------------------------------------------- | ---- |
+| **Blood Sugar Sex Yowie** </br> Sound Mixer </br> Dir: Henry Stone                                                    | 2022 |
+| **Spoonbender** </br> Sound Mixer </br> Dir: Alex Smith                                                               | 2022 |
+| **Pieces of Her** </br> Netflix </br> Period Camera Technologist                                                      | 2022 |
+| **Sloan Peterson - Moon and Back** </br> DIT </br> Dir: Alex Smith                                                    | 2021 |
+| **The Lazy Eyes - Fuzz Jam** </br> DIT (Period Camera Technology) </br> Dir: Alex Smith                               | 2021 |
+| **Sarah Blasko - As Day Follows Night 10th Anniversary** </br> DIT (Period Camera Technology) </br> Dir: Alex Smith   | 2020 |
+| **Donny Benet Live Experience** </br> DIT (Period Camera Technology) </br> Dir: Alex Smith                            | 2020 |
+| **DZ Deathrays - IN-TO-IT, Still No Change, Snakes** </br> DIT (Period Camera Technology) </br> Dir: Alex Smith       | 2019 |
+| **Spod - Adult Fantasy TV Special** </br> Sound Mixer & DIT (Period Camera Technology) </br> </br> Dir: Alex Smith    | 2019 |
+
+{{< /bootstrap-table >}}
 
 ##### Education
 {{< bootstrap-table table_class="table table-dark table-striped table-bordered" >}}
@@ -44,7 +59,7 @@ weight = 11
 |            Role                              |   Employer                                |    Years                 |
 | -------------------------------------------- | ----------------------------------------- | -----------------------  |
 | **Sound Mixer & DIT**                            | Freelance                                 | 2018 - Current           |
-| **Client Relations**                             | Hordern House Rare Books                  | Dec 2019 - Current       |
+| **Client Relations**                             | Hordern House Rare Books                  | Dec 2019 - Dec 2021       |
 | **IT Manager**                                   | Rare Aviation Books Pty Ltd               | Sept 2018 - Dec 2020     |
 | **Web Developer**                                | Dalegroup Pty Ltd                         | Feb 2018 - Oct 2018      |
 | **Technical and Support Analyst**                | Dalegroup Pty Ltd                         | Feb 2016 - June 2017     |

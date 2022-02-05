@@ -1,5 +1,5 @@
 +++
-title = "1984! The Musical! (Album prerelease preview)"
+title = "1984! The Musical!"
 type = "download"
 weight = 3
 +++
