@@ -1,6 +1,6 @@
 baseURL = 'https://rileymccullagh.com/'
 languageCode = 'en-us'
-title = 'riley mccullagh'
+title = 'Riley McCullagh'
 theme = "hugo-initio"
 
 [markup]
@@ -11,8 +11,8 @@ theme = "hugo-initio"
       unsafe = true
 
 [params]
-    name = "riley mccullagh"
-    description = "sound and music for things"
+    name = "Riley McCullagh"
+    description = ""
     email = "me@rileymccullagh.com"
     year = 2021
     avatar = "images/headshot.jpg"
