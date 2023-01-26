@@ -1,0 +1,19 @@
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "Riley McCullagh",
+  "home_page_url": "https://rileymccullagh.com",
+  "feed_url": "https://rileymccullagh.comfeed.json",
+  "description": "Sound Recordist Melbourne",
+  "favicon": "https://rileymccullagh.com/assets/favicon.ico",
+  "expired": false,
+  "author": {
+    "name": "Riley McCullagh",
+    "url": "https://rileymccullagh.com"
+  },
+  "items": [
+    
+    
+
+    
+  ]
+}
