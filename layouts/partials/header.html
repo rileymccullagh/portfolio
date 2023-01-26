@@ -1,0 +1,16 @@
+<header>
+  <h1>
+  <a href="/">
+    {{ .Site.Title }}
+  </a>
+  </h1>
+<ul style="padding: 0;margin: 0;">
+  {{ $currentPage := . }}
+  {{ range .Site.Menus.main }}
+  <li class="{{ if $currentPage.HasMenuCurrent "main" . }}active{{ end }}">
+    <a href="{{ .URL }}"><span>{{ .Name }}</span></a>
+    {{ end }}
+  </li>
+</ul>
+</header>
+<hr class="hr-list" style="padding: 0;margin: 0; margin-bottom: 16px;">

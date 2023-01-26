@@ -1,74 +1,71 @@
-baseURL = 'https://rileymccullagh.com/'
+baseURL = 'https://rileymccullagh.com'
 languageCode = 'en-us'
 title = 'Riley McCullagh'
-theme = "hugo-initio"
+paginate = 3
+theme = 'maverick'
 
-[markup]
-    defaultMarkdownHandler = "goldmark"
-	
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
+[permalinks]
+  pages = "/:slug"
 
 [params]
-    name = "Riley McCullagh"
-    description = ""
-    email = "me@rileymccullagh.com"
-    year = 2021
-    avatar = "images/headshot.jpg"
-    avatarclass = "circle"
-    background = ""
-    banner = "images/background.jpg"
-    favicon = "images/favicon.png"
-    DateForm = "January 2, 2006"
+  logo = '/assets/favicon.ico'
+  description = "Sound Recordist Melbourne"
+  author = 'Riley McCullagh'
 
-    showSubheader = true
-    showServices = true
-    showRecentWorks = true
-    showDownloads = true
-    showClients = true
+  [params.comments]
+    githubRepo = 'canhtran/maverick'
+    theme = 'github-light'
 
-    showFooterContact = true
-    showFooterFollowMe = true
-    showFooterTextWidget = false
-    showFooterFormWidget = false
 
-[[menu.main]]
-    name = "portfolio"
+[menu]
+  [[menu.main]]
+    identifier = "Rates"
+    name = "Rates"
+    url = "/rates/"
+    weight = "-120"
+  [[menu.main]]
+    identifier = "CV"
+    name = "CV"
+    url = "/cv/"
+    weight = "-110"
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
     url = "/"
-    weight = 1
+    weight = -200
 
 
+[markup]
+  [markup.goldmark.renderer]
+    unsafe = true
+  [markup.highlight]
+    anchorLineNos = false
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ''
+    hl_inline = false
+    lineAnchors = ''
+    lineNoStart = 1
+    lineNos = false
+    lineNumbersInTable = true
+    noClasses = true
+    noHl = false
+    style = 'monokailight'
+    tabWidth = 4
 
-[params.google.analytics]
-    trackerID = "GA-000000000-0"
+[taxonomies]
+  tag = "tags"
 
-[[params.social]]
-	title = "instagram"
-	url = "https://www.instagram.com/ri_macc"
-    icon = "fab fa-instagram"
-    footer = true
-    sharethis = false
-    network = ""
-[[params.social]]
-	title = "soundcloud"
-	url = "https://www.soundcloud.com/rileymccullagh"
-    icon = "fab fa-soundcloud"
-    footer = true
-    sharethis = false
-    network = ""
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+  section = ["HTML"]
 
-[[params.social]]
-	title = "github"
-	url = "https://github.com/rileymccullagh"
-    icon = "fab fa-github"
-    footer = true
-    sharethis = false
-    network = ""
-[[params.social]]
-	title = "email"
-	url = "mailto:me@rileymccullagh.com"
-    icon = "fas fa-envelope-square"
-    footer = false
-    sharethis = true
-    network = "email"
+[outputFormats.RSS]
+  mediatype = "application/rss"
+  baseName = "atom"
+
+[outputFormats.JSON]
+  mediatype = "application/json"
+  baseName = "feed"
+
+ignoreErrors = ["error-remote-getjson"]
